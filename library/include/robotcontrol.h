@@ -23,7 +23,7 @@
 #include <rc/bmp.h>
 #include <rc/button.h>
 #include <rc/cpu.h>
-#include <rc/deprecated.h>
+//#include <rc/deprecated.h>
 #ifdef RC_AUTOPILOT_EXT
 #include "rc/dsm.h"
 #else
@@ -36,8 +36,8 @@
 #include <rc/i2c.h>
 #include <rc/led.h>
 #include <rc/math.h>
-#include <rc/mavlink_udp.h>
-#include <rc/mavlink_udp_helpers.h>
+//#include <rc/mavlink_udp.h>
+//#include <rc/mavlink_udp_helpers.h>
 #include <rc/model.h>
 #include <rc/motor.h>
 #include <rc/mpu.h>
